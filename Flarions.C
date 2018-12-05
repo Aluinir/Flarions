@@ -9,7 +9,7 @@
     int j = 0;
     int nx = 4;
     int ny = 3;
-    TCanvas *imm = new TCanvas("Dragon","",1400,1000);
+    TCanvas *imm = new TCanvas("Flarions","",1400,1000);
     imm -> Divide(nx,ny,0,0);
     TGraph **grafico = new TGraph*[12]; 
     for (int k=1;k<=(nx*ny);k++){

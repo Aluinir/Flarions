@@ -5,7 +5,7 @@ This geometric fractal based on C++ and Fortran, also that function use the x=4 
 Use the ROOT framework for this code! It's important! 
 
 # Framework on Root@Cern 
-            - Use this funtion for fun! -
+                                          - Use this funtion for fun! -
 <img src="https://root-forum.cern.ch/uploads/default/original/2X/3/3fb82b650635bc6d61461f3c47f41786afad4548.png" align="right"  height="50"/>
 
 ## Building
